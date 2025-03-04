@@ -1,6 +1,6 @@
 ---
 directories:
-  - directory: tmp/test01
+  - name: tmp/test01
     owner: root
     group: root
     mode: "0755"
