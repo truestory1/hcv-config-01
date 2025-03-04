@@ -8,3 +8,7 @@ files:
     owner: root
     group: root
     mode: "0644"
+  - file: tmp/test01/testfile02
+    owner: root
+    group: root
+    mode: "0644"
