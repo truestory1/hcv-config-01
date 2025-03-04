@@ -1,6 +1,6 @@
 ---
 directories:
-  - name: tmp/test01
+  - name: tmp/testdir01
     owner: root
     group: root
     mode: "0755"
@@ -14,7 +14,7 @@ files:
     owner: root
     group: root
     mode: "0644"
-  - file: tmp/test01/testfile02
+  - file: tmp/testdir01/testfile02
     owner: root
     group: root
     mode: "0644"
