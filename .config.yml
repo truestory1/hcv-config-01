@@ -1,4 +1,10 @@
 ---
+directories:
+  - directory: tmp/test01
+    owner: root
+    group: root
+    mode: "0755"
+
 files:
   - file: tmp/testfile01
     owner: root
