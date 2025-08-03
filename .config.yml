@@ -1,0 +1,20 @@
+---
+directories:
+  - name: tmp/testdir01
+    owner: root
+    group: root
+    mode: "0755"
+
+files:
+  - file: tmp/testfile01
+    owner: root
+    group: root
+    mode: "0755"
+  - file: tmp/testfile02
+    owner: root
+    group: root
+    mode: "0644"
+  - file: tmp/testdir01/testfile02
+    owner: root
+    group: root
+    mode: "0644"
